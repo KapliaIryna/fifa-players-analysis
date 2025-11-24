@@ -2,11 +2,11 @@
 
 Machine learning project analyzing FIFA players dataset using Random Forest classification.
 
-## 🎯 Project Goal
+## Project Goal
 
 Predict player positions based on their skills and attributes using machine learning.
 
-## 📊 Dataset
+## Dataset
 
 FIFA players dataset with player statistics including:
 
@@ -15,7 +15,7 @@ FIFA players dataset with player statistics including:
 - Player positions and overall rating
 - Market value and wage information
 
-## 🔍 Analysis Overview
+## Analysis Overview
 
 **1. Exploratory Data Analysis**
 
@@ -42,14 +42,14 @@ FIFA players dataset with player statistics including:
 - **Features:** Player skills and physical attributes
 - **Validation:** Cross-validation and performance metrics
 
-## 🛠️ Technologies
+## Technologies
 
 - Python 3.x
 - pandas, numpy - data manipulation
 - matplotlib, seaborn - visualization
 - scikit-learn - machine learning
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # Clone repository
@@ -63,7 +63,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/fifa_analysis.ipynb
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── data/
@@ -74,11 +74,11 @@ jupyter notebook notebooks/fifa_analysis.ipynb
 └── README.md
 ```
 
-## 🎓 Background
+## Background
 
 Completed as graduation project for **Robot Dreams Data Science Course** (September 2025).
 
-## 📧 Contact
+## Contact
 
 **Iryna Kaplia**  
 GitHub: [github.com/KapliaIryna](https://github.com/KapliaIryna)  
